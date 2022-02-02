@@ -888,3 +888,500 @@
 2022-02-02 11:48:54,341 WARNING werkzeug MainThread :  * Debugger is active!
 2022-02-02 11:48:54,349 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
 2022-02-02 11:48:54,445 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:31:31,744 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:31:31,791 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:31:31,901 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:31:36,286 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:31:36,348 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:31:36,489 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:31:36,504 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:31:37,114 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:32:04,252 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:32:04,284 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:32:04,377 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:32:07,576 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:32:07,610 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:32:07,694 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:32:07,704 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:32:08,000 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:32:11,893 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 12:32:11,893 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 12:33:13,000 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:33:13,031 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:33:13,125 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:33:16,414 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:33:16,447 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:33:16,543 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:33:16,556 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:33:16,870 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:33:18,277 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 12:33:18,277 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 12:35:39,266 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:35:39,313 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:35:39,423 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:35:42,494 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:35:42,526 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:35:42,602 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:35:42,613 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:35:43,079 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:35:44,132 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 12:35:44,133 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 12:36:17,627 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:36:17,658 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:36:17,736 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:36:20,823 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:36:20,864 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:36:20,923 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:36:20,938 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:36:21,231 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:36:21,926 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 12:36:21,927 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 12:36:48,472 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:36:48,518 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:36:48,622 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:36:52,202 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:36:52,233 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:36:52,311 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:36:52,320 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:36:52,608 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:36:53,281 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 12:36:53,281 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 12:37:25,547 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:37:25,579 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:37:25,675 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:37:29,489 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:37:29,527 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:37:29,589 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:37:29,605 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:37:29,952 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:37:30,431 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 12:37:30,431 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 12:39:01,766 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:39:01,813 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:39:01,923 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:39:05,478 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:39:05,509 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:39:05,664 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:39:05,674 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:39:06,157 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:39:06,975 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 12:39:06,975 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 12:40:56,858 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Models\\inventory.py', reloading
+2022-02-02 12:40:57,774 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:41:01,195 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:41:01,226 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:41:01,304 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:41:01,320 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:41:01,618 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:42:09,724 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 12:42:10,014 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:42:13,647 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:42:13,699 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:42:13,904 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:42:13,916 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:42:14,716 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:42:21,633 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 12:42:26,911 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:42:26,953 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:42:27,080 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:42:30,010 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:42:30,048 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:42:30,163 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:42:30,179 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:42:30,524 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:43:34,202 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:43:34,234 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:43:34,343 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:43:38,158 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:43:38,185 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:43:38,263 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:43:38,278 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:43:38,590 INFO werkzeug Thread-6 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:43:39,688 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 12:43:39,688 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 12:45:06,776 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:45:06,808 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:45:06,886 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:45:08,126 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:45:08,142 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:45:08,189 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:45:08,189 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:45:08,283 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:45:09,841 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 12:45:09,841 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 12:45:10,062 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 12:45:10] "POST /inventory/a2225 HTTP/1.1" 200 -
+2022-02-02 12:45:26,152 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 12:45:26,286 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:45:27,597 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:45:27,619 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:45:27,664 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:45:27,664 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:45:27,742 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:45:29,481 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 12:45:29,481 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 12:45:29,712 INFO Models.inventory Thread-2 : Initializing the objects Attributes.
+2022-02-02 12:45:29,713 INFO Models.inventory Thread-2 : Save Inventory to the Database.
+2022-02-02 12:45:29,730 INFO Models.inventory Thread-2 : Display data in JSON format.
+2022-02-02 12:45:29,767 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 12:45:29] "[35m[1mPOST /inventory/a2225 HTTP/1.1[0m" 500 -
+2022-02-02 12:45:52,457 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:45:52,473 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:45:52,520 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:45:54,206 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:45:54,235 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:45:54,287 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:45:54,296 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:45:54,412 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:45:55,505 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 12:45:55,505 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 12:45:55,519 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 12:45:55] "[31m[1mPOST /inventory/a2225 HTTP/1.1[0m" 400 -
+2022-02-02 12:46:00,565 INFO Resources.inventory Thread-3 : Creating new Inventory
+2022-02-02 12:46:00,566 INFO Models.inventory Thread-3 : Finding Inventory by there Name.
+2022-02-02 12:46:01,157 INFO Models.inventory Thread-3 : Initializing the objects Attributes.
+2022-02-02 12:46:01,157 INFO Models.inventory Thread-3 : Save Inventory to the Database.
+2022-02-02 12:46:01,175 INFO Models.inventory Thread-3 : Display data in JSON format.
+2022-02-02 12:46:01,204 INFO werkzeug Thread-3 : 127.0.0.1 - - [02/Feb/2022 12:46:01] "[35m[1mPOST /inventory/a2226 HTTP/1.1[0m" 201 -
+2022-02-02 12:51:18,702 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 12:51:19,684 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:51:22,031 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:51:22,082 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:51:22,152 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:51:22,165 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:51:22,277 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:52:43,620 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Models\\inventory.py', reloading
+2022-02-02 12:52:43,737 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:52:45,082 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:52:45,097 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:52:45,160 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:52:45,160 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:52:45,254 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:53:21,170 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 12:53:21,367 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:53:23,373 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:53:23,400 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:53:23,464 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:53:23,471 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:53:23,580 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:54:12,314 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 12:54:12,515 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:54:14,344 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:54:14,375 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:54:14,422 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:54:14,422 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:54:14,516 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 12:55:27,405 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 12:55:27,671 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 12:55:29,012 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 12:55:29,028 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 12:55:29,090 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 12:55:29,090 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 12:55:29,184 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:00:13,271 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 14:00:14,021 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:00:15,756 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:00:15,787 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:00:15,865 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:00:15,865 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:00:15,975 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:02:57,094 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 14:02:57,250 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:02:59,484 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:02:59,500 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:02:59,609 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:02:59,609 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:03:01,628 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:03:01,643 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:03:01,722 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:03:02,956 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:03:02,971 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:03:03,050 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:03:03,050 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:03:03,143 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:03:11,515 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:03:11,515 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:03:11,637 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:03:11] "[35m[1mPOST /inventory/a22263 HTTP/1.1[0m" 500 -
+2022-02-02 14:04:07,841 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Common\\utils.py', reloading
+2022-02-02 14:04:08,466 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:04:11,740 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:04:11,786 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:04:11,865 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:04:12,974 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:04:12,989 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:04:13,052 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:04:13,052 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:04:13,146 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:04:16,578 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:04:16,578 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:04:16,645 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:04:16] "[35m[1mPOST /inventory/a22263 HTTP/1.1[0m" 500 -
+2022-02-02 14:04:43,981 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:04:43,981 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:04:44,075 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:04:45,776 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:04:45,798 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:04:45,903 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:04:45,912 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:04:46,019 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:04:48,026 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:04:48,026 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:04:48,085 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:04:48] "[35m[1mPOST /inventory/a22263 HTTP/1.1[0m" 500 -
+2022-02-02 14:05:08,448 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Common\\utils.py', reloading
+2022-02-02 14:05:08,620 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:05:10,028 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:05:10,043 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:05:10,137 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:05:10,153 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:05:10,231 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:05:27,589 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:05:27,605 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:05:27,683 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:05:28,902 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:05:28,917 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:05:28,995 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:05:28,995 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:05:29,120 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:05:31,350 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:05:31,350 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:05:31,419 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:05:31] "[35m[1mPOST /inventory/a22263 HTTP/1.1[0m" 500 -
+2022-02-02 14:06:09,434 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:06:09,434 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:06:09,528 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:06:10,638 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:06:10,654 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:06:10,716 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:06:10,732 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:06:10,826 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:06:13,968 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:06:13,969 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:06:14,026 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:06:14] "[35m[1mPOST /inventory/a22263 HTTP/1.1[0m" 500 -
+2022-02-02 14:06:46,514 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:06:46,530 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:06:46,624 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:06:47,733 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:06:47,749 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:06:47,811 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:06:47,827 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:06:47,905 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:06:50,954 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:06:50,954 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:06:51,015 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:06:51] "[35m[1mPOST /inventory/a22263 HTTP/1.1[0m" 500 -
+2022-02-02 14:07:06,582 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 14:07:06,723 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:07:07,957 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:07:07,988 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:07:08,082 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:07:08,082 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:07:08,191 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:07:10,526 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:07:10,541 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:07:10,624 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:07:12,143 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:07:12,159 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:07:12,221 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:07:12,221 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:07:12,299 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:07:12,872 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:07:12,872 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:07:12,930 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:07:12] "[35m[1mPOST /inventory/a22263 HTTP/1.1[0m" 500 -
+2022-02-02 14:07:46,604 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Common\\utils.py', reloading
+2022-02-02 14:07:46,917 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:07:49,354 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:07:49,370 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:07:49,448 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:07:49,463 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:07:49,541 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:07:50,668 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Common\\utils.py', reloading
+2022-02-02 14:07:50,808 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:07:51,911 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:07:51,926 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:07:51,989 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:07:52,004 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:07:52,082 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:09:04,840 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Common\\utils.py', reloading
+2022-02-02 14:09:05,029 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:09:08,138 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:09:08,201 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:09:21,131 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:09:21,163 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:09:21,241 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:09:22,886 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:09:22,908 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:09:22,965 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:09:22,971 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:09:23,075 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:09:24,688 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:09:24,688 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:09:24,986 INFO Models.inventory Thread-2 : Initializing the objects Attributes.
+2022-02-02 14:09:24,986 INFO Models.inventory Thread-2 : Save Inventory to the Database.
+2022-02-02 14:09:25,028 INFO Models.inventory Thread-2 : Display data in JSON format.
+2022-02-02 14:09:25,042 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:09:25] "[35m[1mPOST /inventory/a22263 HTTP/1.1[0m" 201 -
+2022-02-02 14:28:08,314 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 14:28:09,427 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:28:11,389 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:28:11,438 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:28:11,606 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:28:11,628 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:28:11,762 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:31:36,698 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\app.py', reloading
+2022-02-02 14:31:36,854 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:31:38,323 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:31:38,338 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:31:38,385 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:31:38,401 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:31:38,479 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:33:46,810 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:33:46,982 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:33:48,546 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:33:48,561 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:33:48,642 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:33:48,648 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:33:48,744 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:33:55,435 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:33:55,829 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:33:57,095 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:33:57,141 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:33:57,188 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:33:57,188 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:33:57,282 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:34:06,085 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:34:06,257 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:34:07,944 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:34:08,007 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:34:08,163 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:34:08,194 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:34:08,303 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:34:10,838 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:34:10,940 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:34:12,258 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:34:12,268 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:34:12,316 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:34:12,321 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:34:12,420 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:35:05,481 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:35:05,481 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:35:05,696 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:35:05] "[35m[1mPOST /inventory/Jeans HTTP/1.1[0m" 500 -
+2022-02-02 14:36:26,446 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\app.py', reloading
+2022-02-02 14:36:26,727 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:36:28,590 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:36:28,614 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:36:28,670 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:36:28,679 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:36:28,752 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:37:19,225 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:37:19,225 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:37:19,493 INFO Models.inventory Thread-2 : Initializing the objects Attributes.
+2022-02-02 14:37:19,494 INFO Models.inventory Thread-2 : Save Inventory to the Database.
+2022-02-02 14:37:19,504 INFO Models.inventory Thread-2 : Display data in JSON format.
+2022-02-02 14:37:19,514 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:37:19] "[35m[1mPOST /inventory/Jeans HTTP/1.1[0m" 201 -
+2022-02-02 14:38:18,416 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:38:18,603 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:38:20,073 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:38:20,104 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:38:20,182 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:38:20,198 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:38:20,307 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:38:26,351 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:38:26,444 INFO requests.packages.urllib3.connectionpool MainThread : Starting new HTTP connection (1): 127.0.0.1
+2022-02-02 14:38:26,538 INFO Resources.inventory Thread-2 : Display all Inventories.
+2022-02-02 14:38:26,538 INFO Models.inventory Thread-2 : Display all Inventory at a time.
+2022-02-02 14:38:26,554 INFO Models.inventory Thread-2 : Display data in JSON format.
+2022-02-02 14:38:26,569 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:38:26] "GET /inventory-list HTTP/1.1" 200 -
+2022-02-02 14:38:26,569 DEBUG requests.packages.urllib3.connectionpool MainThread : "GET /inventory-list HTTP/1.1" 200 374
+2022-02-02 14:39:54,313 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:39:54,485 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:39:55,881 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:39:55,896 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:39:55,943 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:39:55,943 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:39:56,021 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:02,547 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:40:02,687 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:40:04,220 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:40:04,220 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:04,298 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:40:04,298 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:40:04,423 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:07,742 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:40:07,867 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:40:09,007 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:40:09,023 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:09,070 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:40:09,070 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:40:09,148 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:20,153 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:40:20,294 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:40:21,655 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:40:21,711 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:21,876 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:40:21,879 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:40:21,976 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:28,813 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:40:28,922 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:40:30,070 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:40:30,085 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:30,116 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:40:30,132 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:40:30,210 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:37,983 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:40:38,092 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:40:39,500 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:40:39,515 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:39,562 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:40:39,562 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:40:39,656 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:41,829 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:40:42,016 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:40:43,827 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:40:43,843 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:43,890 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:40:43,890 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:40:43,985 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:47,269 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:40:47,410 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:40:48,870 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:40:48,870 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:48,917 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:40:48,933 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:40:49,013 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:50,281 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\test.py', reloading
+2022-02-02 14:40:50,468 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:40:52,158 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:40:52,173 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:52,220 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:40:52,220 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:40:52,298 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:40:59,206 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:40:59,237 INFO requests.packages.urllib3.connectionpool MainThread : Starting new HTTP connection (1): 127.0.0.1
+2022-02-02 14:40:59,346 INFO Resources.inventory Thread-2 : Display all Inventories.
+2022-02-02 14:40:59,346 INFO Models.inventory Thread-2 : Display all Inventory at a time.
+2022-02-02 14:40:59,362 INFO Models.inventory Thread-2 : Display data in JSON format.
+2022-02-02 14:40:59,362 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:40:59] "GET /inventory-list HTTP/1.1" 200 -
+2022-02-02 14:40:59,362 DEBUG requests.packages.urllib3.connectionpool MainThread : "GET /inventory-list HTTP/1.1" 200 374
+2022-02-02 14:41:43,882 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:41:43,898 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:41:43,960 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:41:45,195 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:41:45,211 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:41:45,305 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:41:45,305 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:41:45,432 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:41:50,158 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:41:50,158 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:41:50,453 INFO Models.inventory Thread-2 : Initializing the objects Attributes.
+2022-02-02 14:41:50,453 INFO Models.inventory Thread-2 : Save Inventory to the Database.
+2022-02-02 14:41:50,465 INFO Models.inventory Thread-2 : Display data in JSON format.
+2022-02-02 14:41:50,478 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:41:50] "[35m[1mPOST /inventory/Jeans1 HTTP/1.1[0m" 201 -
+2022-02-02 14:42:19,575 INFO Resources.inventory Thread-3 : Searching an Inventory
+2022-02-02 14:42:19,576 INFO Models.inventory Thread-3 : Finding Inventory by there Name.
+2022-02-02 14:42:19,579 INFO Models.inventory Thread-3 : Display data in JSON format.
+2022-02-02 14:42:19,584 INFO werkzeug Thread-3 : 127.0.0.1 - - [02/Feb/2022 14:42:19] "GET /inventory/Jeans1 HTTP/1.1" 200 -
+2022-02-02 14:42:45,497 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\agbha\\PycharmProjects\\Assignment-3\\Resources\\inventory.py', reloading
+2022-02-02 14:42:45,635 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:42:47,351 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:42:47,375 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:45:44,988 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:45:45,004 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:45:45,051 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:45:46,223 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:45:46,239 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:45:46,270 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:45:46,286 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:45:46,364 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

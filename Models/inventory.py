@@ -19,7 +19,6 @@ class InventoryModel(db.Model):
     quantity = db.Column(db.Integer)
     file = db.Column(db.String(80))
     timezone = db.Column(db.String(80))
-    # is_expired = db.Column(db.Boolean, default=False)
 
     def __init__(self, name, category, manufacturing_date, expiry_date, quantity, file, timezone):
         logger.info('Initializing the objects Attributes.')
@@ -37,7 +36,6 @@ class InventoryModel(db.Model):
             'id': self.id,
             'name': self.name,
             'category': self.category,
-            # 'is_expired': is_expired,
             'manufacturing_date': self.manufacturing_date.strftime("%m/%d/%Y, %H:%M:%S"),
             'expiry_date': self.expiry_date.strftime("%m/%d/%Y, %H:%M:%S"),
             'quantity': self.quantity,

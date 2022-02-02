@@ -46,32 +46,30 @@ class Inventory(Resource):
         #     data['manufacturing_date'] = convert_date_into_cst(data['timezone'], ['manufacturing_date'])
         #     data['expiry_date'] = convert_date_into_cst(data['timezone'], ['expiry_date'])
 
+        # Manufacturing date to CST time
         dt_str = data['manufacturing_date']
         format = "%Y-%m-%d %H:%M:%S"
-
         local = datetime.strptime(dt_str, format)
         from_zone = tz.gettz(data['timezone'])
         to_zone = tz.gettz('UTC')
         local = local.replace(tzinfo=from_zone)
         central = local.astimezone(to_zone)
         dt_utc_str = central.strftime(format)
-
         central = datetime.strptime(dt_str, format)
         from_zone = tz.gettz('UTC')
         to_zone = tz.gettz(data['timezone'])
         central = central.replace(tzinfo=from_zone)
         data['manufacturing_date'] = central.astimezone(to_zone)
 
+        # Expiry date to CST time
         dt_str = data['expiry_date']
         format = "%Y-%m-%d %H:%M:%S"
-
         local = datetime.strptime(dt_str, format)
         from_zone = tz.gettz(data['timezone'])
         to_zone = tz.gettz('UTC')
         local = local.replace(tzinfo=from_zone)
         central = local.astimezone(to_zone)
         dt_utc_str = central.strftime(format)
-
         central = datetime.strptime(dt_str, format)
         from_zone = tz.gettz('UTC')
         to_zone = tz.gettz(data['timezone'])

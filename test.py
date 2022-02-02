@@ -7,21 +7,21 @@ class TestAPI(unittest.TestCase):
     URL = "http://127.0.0.1:5000/"
 
     expected_result = {
-        "id": 11,
+        "id": 1,
         "name": "Jeans",
         "category": "Clothing",
-        "manufacturing_date": "2018-07-12T23:13:03",
-        "expiry_date": "2022-07-12T23:13:03",
-        "quantity": 34
+        "manufacturing_date": "2021-02-01 19:24:00",
+        "expiry_date": "2022-11-22 21:37:21",
+        "quantity": 221
     }
 
     updated_data = {
-            "id": 10,
-            "name": "Shirts",
+            "id": 1,
+            "name": "Jeans",
             "category": "Clothing",
-            "manufacturing_date": "2018-07-12T23:13:03",
-            "expiry_date": "2022-07-12T23:13:03",
-            "quantity": 51
+            "manufacturing_date": "2022-02-02 00:24:00",
+            "expiry_date": "2021-11-21 02:37:21",
+            "quantity": 222
         }
 
     def test_for_get_all_data(self):

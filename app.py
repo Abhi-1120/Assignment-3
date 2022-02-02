@@ -1,8 +1,6 @@
 from flask import Flask
 from flask_restful import Api
-from flask_jwt import JWT
 
-from security import authenticate, identity
 from Resources.user import UserRegister, User
 from Resources.inventory import Inventory, InventoryList, UpdateInventory
 
@@ -12,13 +10,11 @@ app = Flask(__name__)
 
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['DEBUG'] = True
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:@localhost:3306/test_flask'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:@localhost:3306/inventory'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['PROPAGATE_EXCEPTIONS'] = True
 app.secret_key = 'Abhi'
 api = Api(app)
-
-jwt = JWT(app, authenticate, identity)
 
 
 @app.before_first_request
