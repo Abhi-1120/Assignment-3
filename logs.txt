@@ -1385,3 +1385,37 @@
 2022-02-02 14:45:46,270 WARNING werkzeug MainThread :  * Debugger is active!
 2022-02-02 14:45:46,286 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
 2022-02-02 14:45:46,364 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:49:08,199 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:49:08,215 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:49:08,317 INFO werkzeug MainThread :  * Restarting with stat
+2022-02-02 14:49:09,738 INFO Models.user MainThread : Creating a Table users.
+2022-02-02 14:49:09,746 INFO Models.inventory MainThread : Creating a Table Inventory.
+2022-02-02 14:49:09,796 WARNING werkzeug MainThread :  * Debugger is active!
+2022-02-02 14:49:09,806 INFO werkzeug MainThread :  * Debugger PIN: 980-147-369
+2022-02-02 14:49:09,909 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-02 14:49:41,383 INFO Resources.inventory Thread-2 : Creating new Inventory
+2022-02-02 14:49:41,383 INFO Models.inventory Thread-2 : Finding Inventory by there Name.
+2022-02-02 14:49:41,627 INFO Models.inventory Thread-2 : Initializing the objects Attributes.
+2022-02-02 14:49:41,627 INFO Models.inventory Thread-2 : Save Inventory to the Database.
+2022-02-02 14:49:41,637 INFO Models.inventory Thread-2 : Display data in JSON format.
+2022-02-02 14:49:41,644 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Feb/2022 14:49:41] "[35m[1mPOST /inventory/Jeans1 HTTP/1.1[0m" 201 -
+2022-02-02 14:49:59,969 INFO Resources.user Thread-3 : Register New Users to the database.
+2022-02-02 14:49:59,982 INFO Models.user Thread-3 : Finding User by there Name.
+2022-02-02 14:50:00,013 INFO Models.user Thread-3 : Initializing the objects Attributes.
+2022-02-02 14:50:00,014 INFO Models.user Thread-3 : Save User to the Database.
+2022-02-02 14:50:00,063 INFO Resources.user Thread-3 : User has been Successfully Created.
+2022-02-02 14:50:00,065 INFO werkzeug Thread-3 : 127.0.0.1 - - [02/Feb/2022 14:50:00] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2022-02-02 14:50:05,036 INFO werkzeug Thread-4 : 127.0.0.1 - - [02/Feb/2022 14:50:05] "[33mPOST /auth HTTP/1.1[0m" 404 -
+2022-02-02 14:51:49,960 INFO werkzeug Thread-5 : 127.0.0.1 - - [02/Feb/2022 14:51:49] "[31m[1mPUT /inventory/Jeans HTTP/1.1[0m" 405 -
+2022-02-02 14:52:30,649 INFO Models.inventory Thread-6 : Finding Inventory by there ID.
+2022-02-02 14:52:30,657 INFO Resources.inventory Thread-6 : Creating new Inventory
+2022-02-02 14:52:30,657 INFO Models.inventory Thread-6 : Initializing the objects Attributes.
+2022-02-02 14:52:30,657 INFO Models.inventory Thread-6 : Save Inventory to the Database.
+2022-02-02 14:52:30,665 INFO Models.inventory Thread-6 : Display data in JSON format.
+2022-02-02 14:52:30,677 INFO werkzeug Thread-6 : 127.0.0.1 - - [02/Feb/2022 14:52:30] "PUT /inventory/1 HTTP/1.1" 200 -
+2022-02-02 14:53:28,893 INFO Resources.inventory Thread-7 : Creating new Inventory
+2022-02-02 14:53:28,894 INFO Models.inventory Thread-7 : Finding Inventory by there Name.
+2022-02-02 14:53:28,910 INFO Models.inventory Thread-7 : Initializing the objects Attributes.
+2022-02-02 14:53:28,911 INFO Models.inventory Thread-7 : Save Inventory to the Database.
+2022-02-02 14:53:28,917 INFO Models.inventory Thread-7 : Display data in JSON format.
+2022-02-02 14:53:28,924 INFO werkzeug Thread-7 : 127.0.0.1 - - [02/Feb/2022 14:53:28] "[35m[1mPOST /inventory/Jeans HTTP/1.1[0m" 201 -
