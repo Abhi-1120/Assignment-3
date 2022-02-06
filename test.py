@@ -1,28 +1,32 @@
 import unittest
 import requests
-from Models.inventory import InventoryModel
+from models.inventory import InventoryModel
 
 
 class TestAPI(unittest.TestCase):
     URL = "http://127.0.0.1:5000/"
 
     expected_result = {
-        "id": 1,
+        "id": 48,
         "name": "Jeans",
-        "category": "Clothing",
-        "manufacturing_date": "2021-02-01 19:24:00",
-        "expiry_date": "2022-11-22 21:37:21",
-        "quantity": 221
+        "category": "Clothings",
+        "manufacturing_date": "02-02-2022, 00:24:00",
+        "expiry_date": "11-21-2021, 02:37:21",
+        "quantity": 222,
+        "file": "C:/Users/agbha/PycharmProjects/Assignment-3/inventory/image11111111.png",
+        "timezone": "America/Chicago"
     }
 
     updated_data = {
-            "id": 1,
-            "name": "Jeans",
-            "category": "Clothing",
-            "manufacturing_date": "2022-02-02 00:24:00",
-            "expiry_date": "2021-11-21 02:37:21",
-            "quantity": 222
-        }
+        "id": 48,
+        "name": "Jeans",
+        "category": "Clothings",
+        "manufacturing_date": "02-02-2022, 00:24:00",
+        "expiry_date": "11-21-2021, 02:37:21",
+        "quantity": 222,
+        "file": "C:/Users/agbha/PycharmProjects/Assignment-3/inventory/image11111111.png",
+        "timezone": "America/Chicago"
+    }
 
     def test_for_get_all_data(self):
         resp = requests.get(self.URL + 'inventory-list')
@@ -35,11 +39,11 @@ class TestAPI(unittest.TestCase):
         self.assertEqual(resp.json(), self.expected_result)
         print("Test 2 Completed.")
 
-    # def test_for_post_data(self):
-    #     resp = requests.post(self.URL, json=self.expected_result)
-    #     self.assertEqual(resp.status_code, 200)
-    #     print("Test 3 Completed.")
-
+    def test_for_post_data(self):
+        resp = requests.post(self.URL + "Jeans", json=self.expected_result)
+        self.assertEqual(resp.status_code, 200)
+        print("Test 3 Completed.")
+    #
     def test_for_delete_data(self):
         resp = requests.delete(self.URL + 'inventory/Trouser')
         self.assertEqual(resp.status_code, 200)
@@ -61,6 +65,6 @@ if __name__ == '__main__':
 
     test_for_get_all_data()
     test_get_data_by_name()
-    # test_for_post_data()
+    test_for_post_data()
     test_for_delete_data()
-    # test_for_update_data()
+    test_for_update_data()

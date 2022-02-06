@@ -1,10 +1,8 @@
 from flask import Flask
 from flask_restful import Api
+import logging
 
-from Resources.user import UserRegister, User
-from Resources.inventory import Inventory, InventoryList, UpdateInventory
-
-UPLOAD_FOLDER = 'C:/Users/agbha/PycharmProjects/Assignment-3/Inventory/image'
+UPLOAD_FOLDER = 'C:/Users/agbha/PycharmProjects/Assignment-3/inventory/image/'
 
 app = Flask(__name__)
 
@@ -17,21 +15,10 @@ app.secret_key = 'Abhi'
 api = Api(app)
 
 
-@app.before_first_request
-def create_tables():
-    if __name__ == '__main__':
-        db.create_all()
+def configure_logger():
+    logging.basicConfig(filename='logs.txt', level=logging.DEBUG,
+                        format=f'%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s')
+    return logging.getLogger(__name__)
 
 
-api.add_resource(UserRegister, '/register')
-api.add_resource(User, '/user/<int:user_id>')
-api.add_resource(Inventory, '/inventory/<string:name>')
-api.add_resource(UpdateInventory, '/inventory/<int:id>')
-api.add_resource(InventoryList, '/inventory-list')
-
-if __name__ == '__main__':
-    from db import db
-
-    db.init_app(app)
-    app.debug = True
-    app.run()
+logger = configure_logger()

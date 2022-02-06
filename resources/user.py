@@ -1,11 +1,6 @@
 from flask_restful import Resource, reqparse
-from Models.user import UserModel
-import logging
-
-
-logging.basicConfig(filename='logs.txt', level=logging.DEBUG,
-                    format=f'%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s')
-logger = logging.getLogger(__name__)
+from models.user import UserModel
+from app import logger
 
 
 user_parser = reqparse.RequestParser()
@@ -17,6 +12,9 @@ class UserRegister(Resource):
     def post(self):
         logger.info('Register New Users to the database.')
         data = user_parser.parse_args()
+
+        # Duplicate error should be raised from the database and exception handling logic should return the error
+        # response with proper status code
         if UserModel.find_by_name(data['username']):
             logger.warning('User is Already Exists.')
             return {'message': 'User already Exist!'}, 400

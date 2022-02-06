@@ -1,10 +1,5 @@
 from db import db
-import logging
-
-
-logging.basicConfig(filename='logs.txt', level=logging.DEBUG,
-                    format=f'%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s')
-logger = logging.getLogger(__name__)
+from app import logger
 
 
 class UserModel(db.Model):
